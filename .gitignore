@@ -1,0 +1,45 @@
+# Arquivos de ambiente e secrets
+.env
+.streamlit/secrets.toml
+
+# Arquivos de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+.venv/
+.del/
+
+# Arquivos de distribuição
+dist/
+build/
+*.egg-info/
+
+# Arquivos de log
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Arquivos de cache do Streamlit
+.streamlit/config.toml
+.streamlit/watch.py
+
+# Arquivos temporários
+*.tmp
+*.bak
