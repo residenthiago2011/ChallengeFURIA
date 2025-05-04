@@ -6,7 +6,7 @@
 
 Protótipo de chatbot especializado em FURIA Esports, desenvolvido como parte do desafio Challenger FURIA #1. O Furioso utiliza modelos avançados de LLM para proporcionar uma comunicação fluida e natural sobre todos os aspectos da organização FURIA Esports.
 
-### [🚀 Experimente o Furioso Agora!](https://app-streamlit.com)
+### [🚀 Experimente o Furioso Agora!](https://challengefuria.streamlit.app/)
 
 ## 📋 Sobre o Projeto
 
